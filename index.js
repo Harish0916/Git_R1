@@ -6,4 +6,4 @@ const gender = 'Male';
 const job = "Software Engineer"
 
 console.log(sum(12,10));
-console.log("thankyou very much");
+console.log("thankyou very much, ok bye");
