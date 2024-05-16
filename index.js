@@ -3,7 +3,7 @@ const calc = require('./util/script.js');
 const name = "Anjali Ojha";
 const age = 24;
 const gender = 'Female';
-const job = "Lawyer at Supreme Court"
+const job = "Lawyer at Supreme Court and high court"
 
 console.log(calc.sum(12,10));
 console.log(calc.sub(12,10));
