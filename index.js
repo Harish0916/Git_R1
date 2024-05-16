@@ -7,4 +7,6 @@ const job = "Software Engineer"
 
 console.log(calc.sum(12,10));
 console.log(calc.sub(12,10));
+console.log(calc.mul(12,10));
+console.log(calc.div(12,10));
 console.log("thankyou very much, ok bye");
